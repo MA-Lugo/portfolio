@@ -1,0 +1,6 @@
+principal:
+#00FC94
+rgba(1, 254, 150, 0.7);
+
+background:
+#0D1117
