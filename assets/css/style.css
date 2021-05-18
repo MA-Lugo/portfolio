@@ -766,7 +766,8 @@ p {
       .header-social .header-social-icon ul li:first-child {
         margin-left: 0; }
       .header-social .header-social-icon ul li a {
-        color: #ccc;
+        color: #fff;
+        background-color: #161B22;
         font-size: 30px;
         width: 60px;
         height: 60px;
